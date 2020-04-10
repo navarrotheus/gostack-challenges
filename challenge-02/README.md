@@ -32,7 +32,7 @@ Incrementar like do repositório id
 
 <img alt="POST Like" src="https://i.ibb.co/19PMhMs/Selection-019.png" width="650px" />
 
-### DELETE /repositories/:id/like
+### DELETE /repositories/:id/dislike
 Decrementar like do repositório id
 
 <img alt="DELETE Like" src="https://i.ibb.co/qNtCV2n/Selection-020.png" width="650px" />
