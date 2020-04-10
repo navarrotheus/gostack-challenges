@@ -8,8 +8,10 @@
 
 <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-02">Ver minha solução</a>
 
-## Desafio 03: Conceitos do ReactJS :x:
+## Desafio 03: Conceitos do ReactJS :heavy_check_mark:
 <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">Ver desafio</a>
+
+<a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-03">Ver minha solução</a>
 
 ## Desafio 04: Conceitos do React Native :x:
 <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native">Ver desafio</a>
