@@ -1,8 +1,19 @@
 
 <p align = "center">
+   <a href="#skills-envolvidas">Skills</a>&nbsp;|&nbsp;
    <a href="#rotas">Rotas</a>&nbsp;|&nbsp;
    <a href="#instruções">Instruções</a>
 </p>
+
+## Skills envolvidas
+
+* NodeJs
+* ExpressJs
+* API REST
+* Nodemon
+* Métodos HTTP (GET, POST, PUT/PATCH, DELETE)
+* Tipos de Parâmetros (Query Params, Route Params e Request Body)
+* Middlewares
 
 ## Rotas
 ### POST /repositories
