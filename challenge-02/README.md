@@ -1,13 +1,8 @@
-## Instruções
 
-Para baixar as dependências:
->yarn
-
-Rodar os testes:
-> yarn test
-
-Rodar a api:
-> yarn dev
+<p align = "center">
+   <a href="#rotas">Rotas</a>&nbsp;|&nbsp;
+   <a href="#instruções">Instruções</a>
+</p>
 
 ## Rotas
 ### POST /repositories
@@ -41,3 +36,18 @@ Incrementar like do repositório id
 Decrementar like do repositório id
 
 <img alt="DELETE Like" src="https://i.ibb.co/qNtCV2n/Selection-020.png" width="650px" />
+
+## Instruções
+
+Para baixar as dependências:
+> yarn
+
+Rodar os testes:
+> yarn test
+
+Rodar a api:
+> yarn dev
+
+Para utilizar o insomnia para teste, baixe o json [Challenge_02_Insomnia](https://github.com/navarrotheus/gostack-challenges/blob/master/challenge-02/Challenge_02_Insomnia.json) e abra com o insomnia
+
+Nas variáveis ambiente, defina a "base_url" e "id" que será utilizado nas rotas, onde id é o id do repositório a ser manipulado
