@@ -37,7 +37,11 @@ app.put("/repositories/:id", (request, response) => {
     return response.status(400).json({ error: 'Repositorie not found' });
   }
 
-  const { title, url, techs } = request.body;
+  const { title, url, techs, likes } = request.body;
+
+  if (likes) {
+    return response.status(401).json({ error: 'Insuficient permissions' });
+  }
 
 
   if (title) {
