@@ -26,7 +26,7 @@ Visualizar repositórios
 
 
 ### PUT /repositories/:id
-Alterar título, url ou techs do repositório id
+Alterar título, url ou techs do repositório id (pode-se alterar mais de um campo ao mesmo tempo)
 
 <img alt="PUT" src="https://i.ibb.co/x2Mn6pt/Selection-017.png" width="650px" />
 
