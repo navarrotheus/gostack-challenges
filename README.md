@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://uploaddeimagens.com.br/images/002/581/935/original/Selection_014.png?1586481635">Ver minha solução</a>
+  <a href="https://uploaddeimagens.com.br/images/002/581/935/original/Selection_014.png?1586481635" target="_blank">Ver minha solução</a>
 </p>
 
 <h2 align="center"> Desafio 02: Conceitos do Node.js :heavy_check_mark: </h2>
