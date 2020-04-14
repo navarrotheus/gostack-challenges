@@ -3,7 +3,7 @@
 </a>
 
 <p align = "center">
-   <a href="#desafio-01-planejando-meus-estudos-heavy_check_mark">Desafio 01</a>&nbsp;|&nbsp;
+   <a href="#01">Desafio 01</a>&nbsp;|&nbsp;
    <a href="#desafio-02-conceitos-do-nodejs-heavy_check_mark">Desafio 02</a>&nbsp;|&nbsp;
    <a href="#desafio-03-conceitos-do-reactjs-heavy_check_mark">Desafio 03</a>&nbsp;|&nbsp;
    <a href="#desafio-04-conceitos-do-react-native-heavy_check_mark">Desafio 04</a>&nbsp;|&nbsp;
@@ -11,7 +11,7 @@
    <a href="#desafio-06-banco-de-dados-e-upload-de-arquivos-no-nodejs-x">Desafio 06</a>
 </p>
 
-<h2 align="center"> Desafio 01: Planejando meus estudos :heavy_check_mark: </h2>
+<h2 id="01" align="center"> Desafio 01: Planejando meus estudos :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-01">Ver desafio</a>
