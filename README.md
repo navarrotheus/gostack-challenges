@@ -14,7 +14,7 @@
 <h2 align="center"> Desafio 01: Planejando meus estudos :heavy_check_mark: </h2>
 
 <p align="center">
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-01">Ver desafio</a>
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-01" target="_blank">Ver desafio</a>
 </p>
 
 <p align="center">
