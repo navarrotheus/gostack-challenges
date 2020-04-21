@@ -52,10 +52,14 @@
 </p>
 
 
-<h2 id="05" align="center"> Desafio 05: Primeiro projeto Node.js :x: </h2>
+<h2 id="05" align="center"> Desafio 05: Primeiro projeto Node.js :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs">Ver desafio</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-05">Ver minha solução</a>
 </p>
 
 <h2 id="06" align="center"> Desafio 06: Banco de dados e upload de arquivos no Node.js :x: </h2>
