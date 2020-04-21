@@ -9,7 +9,7 @@
 * Conceitos ReactJS
 * Configuração Babel
 * Configuração Webpack
-* Componentizaço
+* Componentização
 * Propriedades
 * Estado e imutabilidade
 * Importação de CSS e Imagens
