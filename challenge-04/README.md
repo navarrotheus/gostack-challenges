@@ -1,10 +1,10 @@
 <p align = "center">
-   <a href="#skills-envolvidas">Skills</a>&nbsp;|&nbsp;
+   <a href="#conceitos-envolvidos">Conceitos</a>&nbsp;|&nbsp;
    <a href="#aplicação">Aplicação</a>&nbsp;|&nbsp;
    <a href="#instruções">Instruções</a>
 </p>
 
-## Skills envolvidas
+## Conceitos envolvidos
 
 * Arquitetura React Native
 * Diferenças do ReactJS
