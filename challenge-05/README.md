@@ -1,10 +1,10 @@
 <p align = "center">
-   <a href="#conceitos-envolvidos">Conceitos</a>&nbsp;|&nbsp;
-   <a href="#rotas">Rotas</a>&nbsp;|&nbsp;
-   <a href="#instruções">Instruções</a>
+   <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
+   <a href="#rotas-airplane">Rotas</a>&nbsp;|&nbsp;
+   <a href="#instruções-scroll">Instruções</a>
 </p>
 
-## Conceitos envolvidos
+## Conceitos envolvidos :memo:
 
 * SoC (Separation of Concerns)
 * SRP (Single Responsability Principle)
@@ -16,7 +16,7 @@
 * Eslint
 * Prettier
 
-## Rotas
+## Rotas :airplane:
 ### POST /transactions
 Criar transação informando título, valor e tipo de transação (não é possível retirar valores maiores que o total)
 
@@ -27,7 +27,7 @@ Visualizar todas transações e o balanço atual
 
 <img alt="GET" src="https://i.ibb.co/BzMm7Rb/Sele-o-009.png" width="650px" />
 
-## Instruções
+## Instruções :scroll:
 
 Para baixar as dependências:
 > yarn
