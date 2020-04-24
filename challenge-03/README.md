@@ -1,10 +1,10 @@
 <p align = "center">
-   <a href="#conceitos-envolvidos">Conceitos</a>&nbsp;|&nbsp;
-   <a href="#aplicação">Aplicação</a>&nbsp;|&nbsp;
-   <a href="#instruções">Instruções</a>
+   <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
+   <a href="#aplicação-rocket">Aplicação</a>&nbsp;|&nbsp;
+   <a href="#instruções-scroll">Instruções</a>
 </p>
 
-## Conceitos envolvidos
+## Conceitos envolvidos :memo:
 
 * Conceitos ReactJS
 * Configuração Babel
@@ -15,11 +15,11 @@
 * Importação de CSS e Imagens
 * Conexão com a API criada no desafio passado
 
-## Aplicação
+## Aplicação :rocket:
 
 ![Demo](https://i.giphy.com/JUAf8ZxjAypBE0EVjp.gif)
 
-## Instruções
+## Instruções :scroll:
 
 Para baixar as dependências:
 > yarn
