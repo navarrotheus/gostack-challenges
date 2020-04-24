@@ -9,7 +9,8 @@
    <a href="#04">Desafio 04</a>&nbsp;|&nbsp;
    <a href="#05">Desafio 05</a>&nbsp;|&nbsp;
    <a href="#06">Desafio 06</a>&nbsp;|&nbsp;
-   <a href="#07">Desafio 07</a>
+   <a href="#07">Desafio 07</a>&nbsp;|&nbsp;
+   <a href="#08">Desafio 08</a>&nbsp;|&nbsp;
 </p>
 
 <h2 id="01" align="center"> Desafio 01: Planejando meus estudos :heavy_check_mark: </h2>
@@ -74,6 +75,12 @@
 </p>
 
 <h2 id="07" align="center"> Desafio 07: GoFinances Web :x: </h2>
+
+<p align="center">
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs">Ver desafio</a>
+</p>
+
+<h2 id="08" align="center"> Desafio 08: Fundamentos do React Native :x: </h2>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs">Ver desafio</a>
