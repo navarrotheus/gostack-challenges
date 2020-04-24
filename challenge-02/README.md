@@ -1,10 +1,10 @@
 <p align = "center">
-   <a href="#conceitos-envolvidos">Skills</a>&nbsp;|&nbsp;
-   <a href="#rotas">Rotas</a>&nbsp;|&nbsp;
-   <a href="#instruções">Instruções</a>
+   <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
+   <a href="#rotas-airplane">Rotas</a>&nbsp;|&nbsp;
+   <a href="#instruções-scroll">Instruções</a>
 </p>
 
-## Conceitos envolvidos
+## Conceitos envolvidos :memo:
 
 * Conceitos NodeJS
 * Conceitos API REST
@@ -13,7 +13,7 @@
 * Tipos de Parâmetros (Query Params, Route Params e Request Body)
 * Middlewares
 
-## Rotas
+## Rotas :airplane:
 ### POST /repositories
 Criar repositório informando título, url e techs
 
@@ -46,7 +46,7 @@ Decrementar like do repositório id
 
 <img alt="DELETE Like" src="https://i.ibb.co/qNtCV2n/Selection-020.png" width="650px" />
 
-## Instruções
+## Instruções :scroll:
 
 Para baixar as dependências:
 > yarn
