@@ -62,8 +62,18 @@
   <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-05">Ver minha solução</a>
 </p>
 
-<h2 id="06" align="center"> Desafio 06: Banco de dados e upload de arquivos no Node.js :x: </h2>
+<h2 id="06" align="center"> Desafio 06: Banco de dados e upload de arquivos no Node.js :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload">Ver desafio</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-06">Ver minha solução</a>
+</p>
+
+<h2 id="07" align="center"> Desafio 07: GoFinances Web :x: </h2>
+
+<p align="center">
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs">Ver desafio</a>
 </p>
