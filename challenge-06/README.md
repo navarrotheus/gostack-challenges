@@ -17,7 +17,7 @@
 ### GET /transactions
 Visualizar todas transações e o balanço atual.
 
-<img alt="GET" src="https://uploaddeimagens.com.br/images/002/611/095/full/Sele%C3%A7%C3%A3o_026.png?1587760001" width="650px" />
+<img alt="GET" src="https://uploaddeimagens.com.br/images/002/611/192/full/Sele%C3%A7%C3%A3o_031.png?1587762129" width="650px" />
 
 ### POST /transactions
 Criar transação informando título, valor, tipo e categoria.
