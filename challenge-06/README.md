@@ -1,7 +1,7 @@
 <p align = "center">
-   <a href="#conceitos-envolvidos">Conceitos</a>&nbsp;|&nbsp;
-   <a href="#rotas">Rotas</a>&nbsp;|&nbsp;
-   <a href="#instruções">Instruções</a>
+   <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
+   <a href="#rotas-airplane">Rotas</a>&nbsp;|&nbsp;
+   <a href="#instruções-scroll">Instruções</a>
 </p>
 
 ## Conceitos envolvidos :memo:
