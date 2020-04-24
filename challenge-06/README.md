@@ -37,6 +37,7 @@ Deleta a transação id passada como parâmetro na rota.
 
 ### POST /transactions/import
 Importar um arquivo CSV e criar transações contidas na planilha.
+
 Também criam-se as novas categorias ou aproveitam-se as já existentes.
 
 <img alt="CSV" src="https://uploaddeimagens.com.br/images/002/611/118/full/Sele%C3%A7%C3%A3o_029.png?1587760770" width="650px" />
