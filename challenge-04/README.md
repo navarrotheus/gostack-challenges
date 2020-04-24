@@ -1,20 +1,20 @@
 <p align = "center">
-   <a href="#conceitos-envolvidos">Conceitos</a>&nbsp;|&nbsp;
-   <a href="#aplicação">Aplicação</a>&nbsp;|&nbsp;
-   <a href="#instruções">Instruções</a>
+   <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
+   <a href="#aplicação-rocket">Aplicação</a>&nbsp;|&nbsp;
+   <a href="#instruções-scroll">Instruções</a>
 </p>
 
-## Conceitos envolvidos
+## Conceitos envolvidos :memo:
 
 * Arquitetura React Native
 * Diferenças do ReactJS
 * Conexão com a API do desafio 02 (listagem e inserção de likes)
 
-## Aplicação
+## Aplicação :rocket:
 
 ![Demo](https://media2.giphy.com/media/hS3JuyA8mkMiLmfhEo/giphy.gif)
 
-## Instruções
+## Instruções :scroll:
 
 Para baixar as dependências:
 > yarn
