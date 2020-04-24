@@ -8,7 +8,8 @@
    <a href="#03">Desafio 03</a>&nbsp;|&nbsp;
    <a href="#04">Desafio 04</a>&nbsp;|&nbsp;
    <a href="#05">Desafio 05</a>&nbsp;|&nbsp;
-   <a href="#06">Desafio 06</a>
+   <a href="#06">Desafio 06</a>&nbsp;|&nbsp;
+   <a href="#07">Desafio 07</a>
 </p>
 
 <h2 id="01" align="center"> Desafio 01: Planejando meus estudos :heavy_check_mark: </h2>
