@@ -12,6 +12,13 @@
 
 <img alt="GoFinances" title="GoFinances" src="https://im6.ezgif.com/tmp/ezgif-6-0d7ff0926fd4.gif"/>
 
+Pode-se ver suas transações, seu balanço e importar transações via CSV. Tudo integrado com a API criada no desafio passado.
+
+Arquivo utilizado:
+
+<img alt="CSV" src="https://uploaddeimagens.com.br/images/002/611/118/full/Sele%C3%A7%C3%A3o_029.png?1587760770" width="650px" />
+
+
 ## Conceitos envolvidos :memo:
 
 * Componentização e imutabilidade ReactJs
