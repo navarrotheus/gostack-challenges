@@ -46,8 +46,12 @@ Também criam-se as novas categorias ou aproveitam-se as já existentes.
 
 ## Instruções :scroll:
 
+⚠️ Antes de rodar a API, crie um banco de dados com o nome "gostack_desafio06" ⚠️
+
 Para baixar as dependências:
 > yarn
+
+⚠️ Antes de rodar os testes, crie um banco de dados com o nome "gostack_desafio06_tests" para que todos os testes possam executar corretamente ⚠️
 
 Rodar os testes:
 > yarn test
