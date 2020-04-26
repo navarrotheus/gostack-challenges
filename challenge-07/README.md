@@ -26,6 +26,9 @@
 Para baixar as dependências:
 > yarn
 
+Para rodar as migrações e criar as tabelas no banco:
+> yarn typeorm migration:run
+
 Rodar os testes:
 > yarn test
 
