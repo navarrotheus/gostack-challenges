@@ -1,8 +1,4 @@
 <p align = "center">
-  <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
-</p>
-
-<p align = "center">
    <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
    <a href="#rotas-airplane">Rotas</a>&nbsp;|&nbsp;
    <a href="#instruções-scroll">Instruções</a>
@@ -58,3 +54,7 @@ Rodar os testes:
 
 Rodar a api:
 > yarn dev:server
+
+<p align = "center">
+  <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
+</p>
