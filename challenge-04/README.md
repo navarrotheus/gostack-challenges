@@ -1,8 +1,4 @@
 <p align = "center">
-  <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
-</p>
-
-<p align = "center">
    <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
    <a href="#aplicação-rocket">Aplicação</a>&nbsp;|&nbsp;
    <a href="#instruções-scroll">Instruções</a>
@@ -31,3 +27,7 @@ Rodar a aplicação:
 
 OBS: Lembrar de rodar a API antes (rodar comando dentro da pasta do desafio 02)
 > yarn dev
+
+<p align = "center">
+  <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
+</p>
