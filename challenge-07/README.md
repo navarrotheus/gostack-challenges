@@ -21,14 +21,16 @@
 
 ## Instruções :scroll:
 
+⚠️ Antes de rodar a aplicação/testes, execute a API criada no <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-06">desafio passado</a> ⚠️
+
 Para baixar as dependências:
 > yarn
 
 Rodar os testes:
 > yarn test
 
-Rodar a api:
-> yarn dev:server
+Rodar a aplicação:
+> yarn start
 
 <p align = "center">
   <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
