@@ -1,8 +1,4 @@
 <p align = "center">
-  <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
-</p>
-
-<p align = "center">
    <a href="#conceitos-envolvidos-memo">Conceitos</a>&nbsp;|&nbsp;
    <a href="#rotas-airplane">Rotas</a>&nbsp;|&nbsp;
    <a href="#instruções-scroll">Instruções</a>
@@ -64,3 +60,8 @@ Rodar a api:
 Para utilizar o insomnia para teste, baixe o json [Challenge_02_Insomnia](https://github.com/navarrotheus/gostack-challenges/blob/master/challenge-02/Challenge_02_Insomnia.json) e abra com o insomnia
 
 Nas variáveis ambiente, defina a "base_url" e "id" que será utilizado nas rotas, onde id é o id do repositório a ser manipulado
+
+<p align = "center">
+  <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
+</p>
+
