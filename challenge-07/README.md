@@ -10,6 +10,8 @@
 
 ## Aplicação :rocket:
 
+<img alt="GoFinances" title="GoFinances" src="https://im6.ezgif.com/tmp/ezgif-6-0d7ff0926fd4.gif"/>
+
 ## Conceitos envolvidos :memo:
 
 * Componentização e imutabilidade ReactJs
