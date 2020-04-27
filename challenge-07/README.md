@@ -10,7 +10,7 @@
 
 ## Aplicação :rocket:
 
-<img alt="GoFinances" title="GoFinances" src="https://im6.ezgif.com/tmp/ezgif-6-0d7ff0926fd4.gif"/>
+<img alt="GoFinances" title="GoFinances" src="https://i.giphy.com/media/S9ujNYfsPy4AjVfGYJ/source.gif"/>
 
 Pode-se ver suas transações, seu balanço e importar transações via CSV. Tudo integrado com a API criada no desafio passado.
 
