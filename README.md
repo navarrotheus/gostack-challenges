@@ -87,7 +87,7 @@
 <h2 id="08" align="center"> Desafio 08: Fundamentos do React Native :heavy_check_mark: </h2>
 
 <p align="center">
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs">Ver desafio</a>
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native">Ver desafio</a>
 </p>
 
 <p align="center">
