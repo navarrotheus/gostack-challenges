@@ -84,8 +84,12 @@
   <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-07">Ver minha solução</a>
 </p>
 
-<h2 id="08" align="center"> Desafio 08: Fundamentos do React Native :x: </h2>
+<h2 id="08" align="center"> Desafio 08: Fundamentos do React Native :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs">Ver desafio</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-08">Ver minha solução</a>
 </p>
