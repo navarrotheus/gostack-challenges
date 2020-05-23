@@ -10,7 +10,8 @@
    <a href="#05">Desafio 05</a>&nbsp;|&nbsp;
    <a href="#06">Desafio 06</a>&nbsp;|&nbsp;
    <a href="#07">Desafio 07</a>&nbsp;|&nbsp;
-   <a href="#08">Desafio 08</a>
+   <a href="#08">Desafio 08</a>&nbsp;|&nbsp;
+   <a href="#09">Desafio 09</a>
 </p>
 
 <h2 id="01" align="center"> Desafio 01: Planejando meus estudos :heavy_check_mark: </h2>
@@ -93,3 +94,10 @@
 <p align="center">
   <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-08">Ver minha solução</a>
 </p>
+
+<h2 id="09" align="center"> Desafio 09: Relacionamentos com banco de dados no Node.js :x: </h2>
+
+<p align="center">
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations">Ver desafio</a>
+</p>
+
