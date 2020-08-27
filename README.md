@@ -95,9 +95,13 @@
   <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-08">Ver minha solução</a>
 </p>
 
-<h2 id="09" align="center"> Desafio 09: Relacionamentos com banco de dados no Node.js :x: </h2>
+<h2 id="09" align="center"> Desafio 09: Relacionamentos com banco de dados no Node.js :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations">Ver desafio</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-09">Ver minha solução</a>
 </p>
 
