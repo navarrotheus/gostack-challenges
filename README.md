@@ -107,10 +107,14 @@
   <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-09">Ver minha solução</a>
 </p>
 
-<h2 id="10" align="center"> Desafio 10: GoRestaurant Web :x: </h2>
+<h2 id="10" align="center"> Desafio 10: GoRestaurant Web :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud">Ver desafio</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-10">Ver minha solução</a>
 </p>
 
 <h2 id="11" align="center"> Desafio 11: GoRestaurant Mobile :x: </h2>
