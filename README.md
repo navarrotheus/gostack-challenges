@@ -11,7 +11,9 @@
    <a href="#06">Desafio 06</a>&nbsp;|&nbsp;
    <a href="#07">Desafio 07</a>&nbsp;|&nbsp;
    <a href="#08">Desafio 08</a>&nbsp;|&nbsp;
-   <a href="#09">Desafio 09</a>
+   <a href="#09">Desafio 09</a>&nbsp;|&nbsp;
+   <a href="#10">Desafio 10</a>&nbsp;|&nbsp;
+   <a href="#11">Desafio 11</a>
 </p>
 
 <h2 id="01" align="center"> Desafio 01: Planejando meus estudos :heavy_check_mark: </h2>
@@ -103,5 +105,17 @@
 
 <p align="center">
   <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-09">Ver minha solução</a>
+</p>
+
+<h2 id="10" align="center"> Desafio 10: GoRestaurant Web :x: </h2>
+
+<p align="center">
+  <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud">Ver desafio</a>
+</p>
+
+<h2 id="11" align="center"> Desafio 11: GoRestaurant Mobile :x: </h2>
+
+<p align="center">
+  <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery">Ver desafio</a>
 </p>
 
