@@ -8,7 +8,10 @@
    <a href="#03">Desafio 03</a>&nbsp;|&nbsp;
    <a href="#04">Desafio 04</a>&nbsp;|&nbsp;
    <a href="#05">Desafio 05</a>&nbsp;|&nbsp;
-   <a href="#06">Desafio 06</a>&nbsp;|&nbsp;
+   <a href="#06">Desafio 06</a>
+</p>
+
+<p align = "center">
    <a href="#07">Desafio 07</a>&nbsp;|&nbsp;
    <a href="#08">Desafio 08</a>&nbsp;|&nbsp;
    <a href="#09">Desafio 09</a>&nbsp;|&nbsp;
@@ -117,9 +120,13 @@
   <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-10">Ver minha solução</a>
 </p>
 
-<h2 id="11" align="center"> Desafio 11: GoRestaurant Mobile :x: </h2>
+<h2 id="11" align="center"> Desafio 11: GoRestaurant Mobile :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery">Ver desafio</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/navarrotheus/gostack-challenges/tree/master/challenge-11">Ver minha solução</a>
 </p>
 
