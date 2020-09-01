@@ -10,7 +10,7 @@
 
 ## Demo :rocket:
 
-<!-- <img alt="GoRestaurant" title="GoRestaurant" src="https://media1.tenor.com/images/b53c0ab98b13d2e21cfaeff8139b413f/tenor.gif?itemid=18309259"/> -->
+<img alt="GoRestaurant" title="GoRestaurant" src="https://media.giphy.com/media/WmWWQ7R4DyuvnASiLJ/source.gif"/>
 
 ## Testes :bar_chart:
 
