@@ -7,8 +7,6 @@
 
 <img alt="Testes" src="https://i.ibb.co/WkMWsyC/Selection-061.png" />
 
-###
-
 ## Instruções :scroll:
 Para baixar as dependências:
 
@@ -22,6 +20,12 @@ Rodar os testes:
 
 ``
 yarn test
+``
+
+Para rodar as migrações e criar as tabelas no banco:
+
+``
+yarn typeorm migration:run
 ``
 
 Rodar a aplicação:
